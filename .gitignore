@@ -1,0 +1,8 @@
+#config
+dungar.ini
+
+#logs
+*.log
+
+#python stuff
+*.pyc
